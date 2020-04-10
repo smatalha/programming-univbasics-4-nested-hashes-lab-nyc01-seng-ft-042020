@@ -38,7 +38,7 @@ def alan_kay_is_known_for
     }
 
 end
-
+hopper[:alan_kay][:languages]
 def dennis_ritchies_language
 	programmer_hash = 
  		{
