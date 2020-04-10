@@ -38,7 +38,7 @@ def alan_kay_is_known_for
     }
 
 end
-hopper[:alan_kay][:languages]
+hopper[:alan_kay][:known_for]
 def dennis_ritchies_language
 	programmer_hash = 
  		{
@@ -57,7 +57,7 @@ def dennis_ritchies_language
     }
 
 end
-
+hopper[:dennis_ritchie][:languages]
 def adding_matz
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
